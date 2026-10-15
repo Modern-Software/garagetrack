@@ -41,10 +41,5 @@ app.*.map.json
 
 # Android Studio will place build artifacts here
 /android/app/debug
-/android/app/release
 /android/app/profile
-
-# Keystore files
-*.jks
-*.keystore
-key.properties
+/android/app/release
